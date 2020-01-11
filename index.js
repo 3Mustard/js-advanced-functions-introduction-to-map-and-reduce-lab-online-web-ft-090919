@@ -35,9 +35,9 @@ function mapToSquare(srcRay){
 }
 
 function reduceToTotal(sourceArray, startingPoint=0){
-    let start = startingPoint;
+    let total = startingPoint;
     
-    
+    for(let )
 }
 
 function reduceToAllTrue(sourceArray){}
