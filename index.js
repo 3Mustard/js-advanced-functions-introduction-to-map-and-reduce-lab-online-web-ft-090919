@@ -34,9 +34,10 @@ function mapToSquare(srcRay){
   return result;
 }
 
-function reduceToTotal(srcRay)
+function reduceToTotal(sourceArray, startingPoint){
+    
+}
 
-
-
-
+function reduceToAllTrue(sourceArray){}
+function reduceToAnyTrue(sourceArray){}
 
