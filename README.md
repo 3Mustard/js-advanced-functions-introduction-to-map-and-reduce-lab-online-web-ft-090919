@@ -1,4 +1,4 @@
-n# JavaScript Advanced Functions: Introduction to Map and Reduce Lab
+# JavaScript Advanced Functions: Introduction to Map and Reduce Lab
 
 ## Learning Goals
 
