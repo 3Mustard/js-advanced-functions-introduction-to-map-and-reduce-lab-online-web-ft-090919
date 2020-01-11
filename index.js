@@ -27,6 +27,6 @@ function mapToSquare(srcRay){
   let result = [];
   
   for(let i = 0; i < srcRay.length; i++){
-    result.push(srcRay[i] ** 2);
+    result.push(srcRay[i] * srcRay[i]);
   }
 }
