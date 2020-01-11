@@ -13,6 +13,7 @@ function mapToNoChange(srcRay){
   for(let i = 0; i < srcRay.length; i++){
     result.push(srcRay[i]);
   }
+  return result;
 }
 
 function mapToDouble(srcRay){
@@ -21,6 +22,7 @@ function mapToDouble(srcRay){
   for(let i = 0; i < srcRay.length; i++){
     result.push(srcRay[i] * 2);
   }
+  return result;
 }
 
 function mapToSquare(srcRay){
@@ -29,4 +31,5 @@ function mapToSquare(srcRay){
   for(let i = 0; i < srcRay.length; i++){
     result.push(srcRay[i] * srcRay[i]);
   }
+  return result;
 }
