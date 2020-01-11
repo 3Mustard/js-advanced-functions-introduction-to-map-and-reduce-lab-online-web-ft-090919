@@ -33,3 +33,10 @@ function mapToSquare(srcRay){
   }
   return result;
 }
+
+function reduceToTotal(srcRay)
+
+
+
+
+
